@@ -7,5 +7,5 @@ at since 2018 i was starting researching blockchain till now so now i am current
 
 
 ### Social media
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/xdevman/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](t.me/sobhan0x) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' style="margin: 14px 14px 14px 14px;" alt='linkedin' height='40'>](https://www.linkedin.com/in/xdevman/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' style="margin: 14px 14px 14px 14px;" alt='telegram' height='40'>](t.me/sobhan0x) 
