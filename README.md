@@ -7,7 +7,7 @@ at since 2018 i was starting researching blockchain till now so now i am current
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xdevman&show_icons=true)  
 
 ### Social Networks
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/xdevman/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](t.me/sobhan0x)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/xdevman/)    [<img src='https://icons8.com/icon/TCnKnYZFoOzM/telegram-app' alt='telegram' height='40'>](t.me/sobhan0x)  
 
 
 
