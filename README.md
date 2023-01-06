@@ -1,7 +1,7 @@
 # About me
  
 
-at since 2018 i was starting researching blockchain till now so now i am currently working on Web 3 projects and sometimes I'm implementing my ideas with python so I'm looking forward to security and penetration testing usually.
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xdevman&show_icons=true)  
