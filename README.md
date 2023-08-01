@@ -1,6 +1,3 @@
-### 📚 Recent blog posts:
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
 # About me
  
 
