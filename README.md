@@ -1,3 +1,6 @@
+### 📚 Recent blog posts:
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 # About me
  
 
@@ -14,6 +17,4 @@
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=xdevman)  
-### 📚 Recent blog posts:
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+
