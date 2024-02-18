@@ -12,7 +12,10 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🚀 [Security Exploration of Metamask: Introducing and Using the &quot;MetaMaskVaultExtractor&quot; Script](https://sobhan.hashnode.dev/security-exploration-of-metamask-introducing-and-using-the-metamaskvaultextractor-script)
+ - 💫 [Ethereum Sweeper Bots: A Practical Exploration](https://sobhan.hashnode.dev/ethereum-sweeper-bots-a-practical-exploration)
+ - 🚀 [Getting Started with ESP32: Building a Bitcoin Price Display with python](https://sobhan.hashnode.dev/getting-started-with-esp32-building-a-bitcoin-price-display-with-python)
+ - 💫 [OTP Bruteforce Account Takeover Writeup](https://sobhan.hashnode.dev/otp-bruteforce-account-takeover-writeup)<!-- BLOGPOSTS:END -->
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=xdevman)  
