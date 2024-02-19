@@ -2,7 +2,6 @@
 
 a web3 enthusiast and Python developer with expertise in web application security.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xdevman&show_icons=true)  
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
@@ -11,7 +10,11 @@ a web3 enthusiast and Python developer with expertise in web application securit
  - 🚀 [Getting Started with ESP32: Building a Bitcoin Price Display with python](https://sobhan.hashnode.dev/getting-started-with-esp32-building-a-bitcoin-price-display-with-python)
  - 💫 [OTP Bruteforce Account Takeover Writeup](https://sobhan.hashnode.dev/otp-bruteforce-account-takeover-writeup)<!-- BLOGPOSTS:END -->
 
-🌐 Explore more on [sobhan.hashnode.dev](https://sobhan.hashnode.dev).
+🌐 Explore more on [sobhan.hashnode.dev](https://sobhan.hashnode.dev)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xdevman&show_icons=true)  
+
 
 ### Contact me
 [<img src='https://img.icons8.com/color/48/000000/linkedin-circled--v1.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/xdevman/)    [<img src='https://img.icons8.com/color/48/000000/telegram-app--v1.png' alt='telegram' height='40'>](https://t.me/sobhan0x)  
