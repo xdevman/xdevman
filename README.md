@@ -5,10 +5,11 @@ a web3 enthusiast and Python developer with expertise in web application securit
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Security Exploration of Metamask: Introducing and Using the &quot;MetaMaskVaultExtractor&quot; Script](https://sobhan.hashnode.dev/security-exploration-of-metamask-introducing-and-using-the-metamaskvaultextractor-script)
- - 💫 [Ethereum Sweeper Bots: A Practical Exploration](https://sobhan.hashnode.dev/ethereum-sweeper-bots-a-practical-exploration)
- - 🚀 [Getting Started with ESP32: Building a Bitcoin Price Display with python](https://sobhan.hashnode.dev/getting-started-with-esp32-building-a-bitcoin-price-display-with-python)
- - 💫 [OTP Bruteforce Account Takeover Writeup](https://sobhan.hashnode.dev/otp-bruteforce-account-takeover-writeup)<!-- BLOGPOSTS:END -->
+ - 🚀 [Understanding Bookmark Manipulation with BookmarkPhisher](https://sobhan.hashnode.dev/understanding-bookmark-manipulation-with-bookmarkphisher)
+ - 💫 [Security Exploration of Metamask: Introducing and Using the &quot;MetaMaskVaultExtractor&quot; Script](https://sobhan.hashnode.dev/security-exploration-of-metamask-introducing-and-using-the-metamaskvaultextractor-script)
+ - 🚀 [Ethereum Sweeper Bots: A Practical Exploration](https://sobhan.hashnode.dev/ethereum-sweeper-bots-a-practical-exploration)
+ - 💫 [Getting Started with ESP32: Building a Bitcoin Price Display with python](https://sobhan.hashnode.dev/getting-started-with-esp32-building-a-bitcoin-price-display-with-python)
+ - 💯 [OTP Bruteforce Account Takeover Writeup](https://sobhan.hashnode.dev/otp-bruteforce-account-takeover-writeup)<!-- BLOGPOSTS:END -->
 
 🌐 Explore more on [sobhan.hashnode.dev](https://sobhan.hashnode.dev)
 
